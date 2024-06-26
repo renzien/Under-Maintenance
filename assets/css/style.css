@@ -214,3 +214,27 @@ img {
 .home__img-2 {
     width: 120px;
 }
+
+.home__blob-3 {
+    width: 200px;
+    height: 190px;
+    border-radius: 57% 43% 40% 60% / 49% 34% 66% 51%;
+}
+
+.home__img-3 {
+    width: 100px;
+}
+
+.home__blob-4 {
+    width: 300px;
+    height: 290px;
+    border-radius: 78% 22% 20% 80% / 53% 46% 54% 47%;
+}
+
+.home__img-4 {
+    width: 200px;
+}
+
+.home__img-5 {
+    width: 150px;
+}
